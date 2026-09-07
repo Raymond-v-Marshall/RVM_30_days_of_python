@@ -1,0 +1,16 @@
+in this Exercise I opened python in power shell and did the following:
+The following operations with 3 & 4:
+addition(+)
+3 + 4 -> 7
+subtraction(-)
+3 - 4 -> -1
+multiplication(*)
+3 * 4 -> 12
+modulus(%) #remander
+3 % 4 -> 3
+division(/)
+3 / 4 -> 0.75
+exponential(**)
+3 ** 4 -> 81
+floor division operator(//) # divide nearest whole number
+3 // 4 -> 0
